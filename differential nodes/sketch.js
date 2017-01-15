@@ -1,3 +1,5 @@
+// requires p5.js
+
 var centerX, centerY; 
 var nodes = [];
 var divisions=10;
